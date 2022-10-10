@@ -1,0 +1,10 @@
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\bin\Debug\CSC240-03-03-AdmissionGUI-NGM.exe.config
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\bin\Debug\CSC240-03-03-AdmissionGUI-NGM.exe
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\bin\Debug\CSC240-03-03-AdmissionGUI-NGM.pdb
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\obj\Debug\CSC240-03-03-AdmissionGUI-NGM.csproj.AssemblyReference.cache
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\obj\Debug\CSC240_03_03_AdmissionGUI_NGM.Form1.resources
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\obj\Debug\CSC240_03_03_AdmissionGUI_NGM.Properties.Resources.resources
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\obj\Debug\CSC240-03-03-AdmissionGUI-NGM.csproj.GenerateResource.cache
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\obj\Debug\CSC240-03-03-AdmissionGUI-NGM.csproj.CoreCompileInputs.cache
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\obj\Debug\CSC240-03-03-AdmissionGUI-NGM.exe
+C:\Users\mccoy\source\repos\CSC240-03-03-AdmissionGUI-NGM\CSC240-03-03-AdmissionGUI-NGM\obj\Debug\CSC240-03-03-AdmissionGUI-NGM.pdb
